@@ -35,6 +35,13 @@ yarn-error.log*
 
 # vercel
 .vercel
+.agents
+.designs
+
+# md
+SKEMA_DATABASE.md
+AADK_Component_List.md
+aadk-v1-tree.md
 
 # typescript
 *.tsbuildinfo
